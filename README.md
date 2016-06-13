@@ -8,4 +8,4 @@ Most work is done in [Jupyter notebooks](https://jupyter.org/)
 Information is retrieved using my [Python bindings to the EtherScan.io API](https://github.com/corpetty/py-etherscan-api.git)
 
 ## Static DAO information
-All reference information that may be considered static can be found in the `reference_material` directory
+All reference information that may be considered static can be found in the [reference_material](https://github.com/corpetty/dao_analysis/tree/master/reference_material) directory
